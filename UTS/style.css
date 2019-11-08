@@ -1,0 +1,21 @@
+.jumbotron {
+	background-image: url('medical.jpg');
+	background-size: cover;
+	height: 500px;
+}
+
+.jumbotron .display-4 {
+	margin-top: 120px;
+	margin-left: 280px;
+	font-size:	60px;
+	font-weight: bold;
+}
+
+.jumbotron .lead {
+	margin-left: 180px;
+}
+
+.footer {
+	text-align: center;
+	color: blue;
+}
